@@ -121,7 +121,6 @@ scaler.pkl
 - Mobile Application Support
 
 ---
-
 ## Author
 
 **Shavi Gongale**
